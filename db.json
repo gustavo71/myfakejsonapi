@@ -7,5 +7,70 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "patients": [
+    {
+      "name": "Sonya Gomez",
+      "rank" "Ensign",
+      "posting": "USS Enterprise-D",
+      "position": "Engineering Officer",
+      "species": "Human"
+    },
+    {
+      "name": "Guinan",
+      "rank" "Civilian",
+      "posting": "USS Enterprise-D",
+      "position": "Bartender",
+      "species": "El-Aurian"
+    },
+    {
+      "name": "Robin Lefler",
+      "rank" "Ensign",
+      "posting": "USS Enterprise-D",
+      "position": "Engineering Officer",
+      "species": "Human"
+    },
+    {
+      "name": "Tasha Yar",
+      "rank" "Lieutenant",
+      "posting": "USS Enterprise-D",
+      "position": "Chief Security Officer",
+      "species": "Human"
+    },
+    {
+      "name": "Data",
+      "rank" "Lt. Commander",
+      "posting": "USS Enterprise-D",
+      "position": "Chief Operations Officer",
+      "species": "Android"
+    },
+    {
+      "name": "Geordi La Forge",
+      "rank" "Lt. Commander",
+      "posting": "USS Enterprise-D",
+      "position": "Chief Engineer",
+      "species": "Human"
+    },
+    {
+      "name": "Jean-Luc Picard",
+      "rank" "Captain",
+      "posting": "USS Enterprise-D",
+      "position": "Commanding Officer",
+      "species": "Human"
+    },
+    {
+      "name": "Beverly Crusher",
+      "rank" "Commander",
+      "posting": "USS Enterprise-D",
+      "position": "Chief Medical Officer",
+      "species": "Human"
+    },
+    {
+      "name": "Worf",
+      "rank" "Lt. Commander",
+      "posting": "USS Enterprise-D",
+      "position": "Strategic Operations Officer",
+      "species": "Klingon"
+    }
+  ]
 }
